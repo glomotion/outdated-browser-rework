@@ -25,6 +25,7 @@
     "gulp": "^3.9.1",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
+    "js-polyfills": "^0.1.42",
     "node-sass": "^4.9.0",
     "nodemon": "^1.17.5",
     "uglify-js": "^3.3.28",
